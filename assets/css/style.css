@@ -1829,3 +1829,7 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+.list-group li {
+  color: rgb(62, 61, 61) !important;
+}
