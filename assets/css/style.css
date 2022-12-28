@@ -464,11 +464,12 @@ h6 {
 
 #hero .container {
   text-align: center;
-  background: rgba(255, 255, 255, 0.9);
-  padding-top: 30px;
-  padding-bottom: 30px;
+  background: rgb(255, 255, 255);
+  padding-top: 23px;
+  padding-bottom: 12px;
   margin-bottom: 50px;
   border-top: 4px solid #3fbbc0;
+  width: 50%;
 }
 
 @media (max-width: 1200px) {
