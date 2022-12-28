@@ -1691,17 +1691,20 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #eeeeee;
-  padding: 0 0 30px 0;
+  background: #363636;
+  padding: 0 0 9px 0;
   color: #555555;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #f6f6f6;
+  background: #1b889a !important;
   padding: 60px 0 30px 0;
+  color: white;
 }
 
+
+ 
 #footer .footer-top .footer-info {
   margin-bottom: 30px;
 }
@@ -1776,7 +1779,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #555555;
+  color: #f3efef;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
